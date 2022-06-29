@@ -1,0 +1,20 @@
+<?php
+$lang['label_number'] = "No.";
+$lang['label_code'] = "Code";
+$lang['label_name'] = "Name";
+$lang['label_logo'] = "Logo";
+$lang['label_status'] = "Status";
+$lang['label_action'] = "Action";
+$lang['label_enter_name'] = "Enter Clinic Name";
+$lang['label_enter_code'] = "Enter Clinic Code";
+$lang['label_reg_date']   = "Reg. Date";
+$lang['label_account_type']   = "Account Type";
+$lang['label_license']   = "License";
+$lang['label_end_license']   = "End License";
+$lang['label_timestamp']   = "Update at";
+$lang['label_remarks']   = "Remarks";
+$lang['label_day']   = "Day";
+$lang['label_month']   = "Month";
+$lang['label_year']   = "Year";
+$lang['label_license_status']   = "License Status";
+$lang['label_title_page_klinik']="List of Registered Clinics";

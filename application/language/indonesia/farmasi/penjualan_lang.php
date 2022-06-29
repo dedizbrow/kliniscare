@@ -1,0 +1,45 @@
+<?php
+$lang['label_my_account'] = "Account Setting";
+
+$lang['label_date'] = "Tanggal";
+$lang['label_invoice'] = "Faktur";
+$lang['label_payment'] = "Pembayaran";
+$lang['label_code'] = "Kode Obat";
+$lang['label_name'] = "Nama";
+$lang['label_user'] = "User";
+$lang['label_total'] = "Total";
+$lang['label_unit'] = "Satuan";
+$lang['label_kredithari'] = "Lama Kredit";
+$lang['label_price'] = "Harga";
+$lang['label_time'] = "Waktu";
+$lang['label_tunaikredit'] = "Jenis Bayar";
+$lang['label_nhari'] = "N hari";
+$lang['label_jumlah'] = "Jumlah";
+$lang['label_jatuhtempo'] = "Jatuh Tempo";
+$lang['label_subtotal'] = "Sub Total";
+$lang['label_grandtotal'] = "Grand Total";
+$lang['label_discount'] = "Diskon";
+$lang['label_pay'] = "Bayar";
+$lang['label_operator'] = "Operator";
+$lang['label_change'] = "Kembali";
+$lang['label_supplier'] = "Supplier";
+$lang['label_action'] = "Action";
+$lang['label_doctor'] = "Dokter";
+
+$lang['label_name_drugs'] = "Nama Obat";
+$lang['label_category'] = "Kategori";
+$lang['label_stock'] = "Stok";
+$lang['label_stockmin'] = "Minimal Stok";
+$lang['label_purchase'] = "Harga Beli";
+$lang['label_unit'] = "Satuan";
+$lang['label_sell'] = "Harga Jual";
+$lang['label_supplier'] = "Supplier";
+$lang['label_expired'] = "Expired";
+$lang['label_is_change_password'] = "Untuk mengubah password, silakan isi field password, jika tidak maka abaikan";
+$lang['msg_invalid_email'] = "Format email tidak valid";
+$lang['msg_password_not_match'] = "Konfirmasi password tidak cocok";
+$lang['msg_username_used'] = "Username sudah digunakan";
+$lang['msg_insert_user_failed'] = "Gagal menambahkan user";
+$lang['msg_insert_user_success'] = "Sukses menambahkan user";
+$lang['msg_update_user_sucess'] = "Sukses update data user";
+$lang['msg_change_password_success'] = "Password berhasil diubah";
